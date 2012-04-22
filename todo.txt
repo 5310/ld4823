@@ -1,0 +1,26 @@
+*	Rotation and swapping do not work together. I am doing NOTHING wrong, promise. 
+
+	I can't tell if it's an actual bug, or something I still haven't notice, but swapping only works if planets cannot rotate. 
+	EVERYTHING else works. But without rotation, the sort of gameplay I had planned is impossible. 
+	
+	GAMESTOPPER BUG. If you can fix this, progress. Otherwise, stop.
+	
+
+
+*	Draw at least six sets each with at least six pieces and one planet.
+
+*	Implement randomly generating a number of planets with unique sets. 
+	And then only randomly generating pieces from those sets, and that too to the maximum of six per set; duplication allowed.
+	
+*	Make sure the set-counting algorithm discounts empty pieces.
+
+*	Implement a title/menu screen with blurb, brief help, and ability to restart with a new level: All mouse driven.
+
+*	Add effects:
+	
+	*	Pieces shrink when planets are too close; as per their heights.
+	
+	*	Moving planets generate particle-trails.
+	
+	*	Successful collisions display visual feedback via particles.
+
